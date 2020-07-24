@@ -2,13 +2,13 @@
 # script for external backup of only the files i want
 
 EXT="/Volumes/My Book for Mac" 
-PIC="/Users/joecourtney/Pictures/Photos Library.photoslibrary/masters"
-MUS="/Users/joecourtney/music/itunes/itunes media/music"
-MEMO="/Users/joecourtney/Music/iTunes/iTunes Media/Voice Memos"
-DESK="/Users/joecourtney/Desktop" 
-BEAU="/Users/joecourtney/Documents/Beaurocracy"
-SCHO="/Users/joecourtney/Documents/School"
-VID="/Users/joecourtney/Documents/PowerOutage"
+PIC="/Users/blastomussa/Pictures/Photos Library.photoslibrary/masters"
+MUS="/Users/blastomussa/music/itunes/itunes media/music"
+MEMO="/Users/blastomussa/Music/iTunes/iTunes Media/Voice Memos"
+DESK="/Users/blastomussa/Desktop" 
+BEAU="/Users/blastomussa/Documents/Beaurocracy"
+SCHO="/Users/blastomussa/Documents/School"
+VID="/Users/blastomussa/Documents/PowerOutage"
 E_WRONG=85
 
 # Usage function
